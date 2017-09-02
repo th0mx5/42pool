@@ -1,0 +1,6 @@
+Credentials cache: API:0E97E1DA-A30D-4470-9DB5-4F0DF325822A
+        Principal: thbernar@42.FR
+
+  Issued                Expires               Principal
+Jul 31 17:31:15 2017  Aug  7 17:31:15 2017  krbtgt/42.FR@42.FR
+Jul 31 17:55:53 2017  Aug  7 17:31:15 2017  host/vgs-fn1.42.fr@42.FR
